@@ -1,0 +1,14 @@
+-lsocket -lm -lbsd
+-ldb -lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lm -lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
+-lsocket -lm -lbsd
