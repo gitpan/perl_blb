@@ -1,0 +1,1 @@
+-Li:/emx.add/include/../lib -lssl -lcrypto -lgcc

@@ -1,0 +1,1 @@
+-Li:/TOOLKIT/som/lib -lsomtk

@@ -1,0 +1,1 @@
+-lpanel -lmenu -lform -lncurses -lncurses_s -lpanel_s -lmenu_s -lform_s

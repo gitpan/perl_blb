@@ -1,0 +1,1 @@
+-LI:/emx.add/lib -Li:/emx.add/lib -lxslt -lexslt -lxml2 -lz

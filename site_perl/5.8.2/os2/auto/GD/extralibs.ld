@@ -1,0 +1,1 @@
+-lgd -lpng -lz -lfreetype -ljpeg -lXpm

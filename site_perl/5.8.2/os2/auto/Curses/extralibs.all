@@ -1,0 +1,80 @@
+
+
+
+
+-ldb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-lbz2
+
+-Li:/emx.add/include/../lib -lssl -lcrypto -lgcc
+
+
+
+
+
+
+
+-lgd -lpng -lz -lfreetype -ljpeg -lXpm
+
+
+-L/ -lssl -lcrypto
+
+
+
+
+
+-Li:/TOOLKIT/som/lib -lsomtk
+
+
+
+
+-Li:/emx.add/lib -lxml2 -lz
+-Li:/emx.add/lib -lxml2 -lz
+-LI:/emx.add/lib -Li:/emx.add/lib -lxslt -lexslt -lxml2 -lz
+-lexpat
+-lsablot -lexpat
+-lpanel -lmenu -lform -lncurses -lncurses_s -lpanel_s -lmenu_s -lform_s

@@ -1,1 +1,0 @@
--ldb -lsocket -lm -lbsd
